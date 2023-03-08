@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=122721&width=600&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanshuyou&show_icons=true&theme=swift)](https://github.com/zhanshuyou)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanshuyou&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuyou&layout=compact)](https://github.com/zhanshuyou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanshuyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 .----.  .----.  .----. .-. .-..-..----.   .----. .-. .-..----. .----. .-.  .-.
 | {}  }/  {}  \/  {}  \| |/ / | || {_     | {}  }| { } || {}  }| {}  } \ \/ / 
