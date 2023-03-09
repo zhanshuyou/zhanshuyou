@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=122721&width=600&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=8000&pause=3000&color=041507&vCenter=true&width=620&lines=Try+to+learn+something+about+everything+and+everything+about+something.)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanshuyou&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
