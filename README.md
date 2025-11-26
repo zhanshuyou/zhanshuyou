@@ -9,6 +9,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Nocturnal animal**
 
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -19,3 +20,4 @@ Here are some of the technologies and tools I work with:
 - **Tools**: Vite/Rollup/ESBuild
 - **Other Skills**: Rust
 
+---
