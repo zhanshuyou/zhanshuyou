@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on **Zilliz**
 - 🌱 I’m learning **Rust**
 - 💬 Ask me about **React & Typescript**
-- 📫 How to reach me: **--**
-- 😄 Pronouns: **--**
+- 📫 How to reach me: **shuyoou@outlook.com**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Nocturnal animal**
 
 ---
@@ -21,17 +21,3 @@ Here are some of the technologies and tools I work with:
 - **Other Skills**: Rust
 
 ---
-<!--
-**zhanshuyou/zhanshuyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
