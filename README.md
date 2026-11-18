@@ -3,7 +3,7 @@
 ```javascript
 const developer = {
     name: "Shuyoou",
-    role: "Frontend Engineer",
+    role: "Software Engineer",
     code: ["Typescript", "React", "RxJS", "Next.js", "Nest.js", "Rust"],
     tools: ["Cursor", "Claude Code", "VS Code", "Docker", "Vite", "Rollup", "ESBuild"],
     pronouns: ["He", "Him"],
